@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This should be my custom GitHub profile, thanks for [Eddie Jaoude](https://www.youtube.com/user/eddiejaoude) for telling me about this feature in GitHub
 <!--
 **mrashad10/mrashad10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
