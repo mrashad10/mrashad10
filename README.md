@@ -38,6 +38,7 @@ These are some of the technologies and tools that I work with:
       <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black" />
       <img src="https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python" />
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
    </td>
   </tr>
   <tr>
