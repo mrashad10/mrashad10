@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm a 20+ years of experience passionate web developer with expertise in both Node.js and PHP and a DevOps engineer, I also enjoy optimizing workflows and automating processes for seamless deployments.
-
+I am a highly experienced and passionate web developer with over 20 years of expertise in crafting robust solutions using Node.js and PHP. As a skilled DevOps engineer, I excel at optimizing workflows, automating processes, and streamlining deployments to deliver seamless, efficient, and scalable outcomes. My dedication lies in driving innovation and elevating development operations to the next level.
 
 <p align="center">
   <a href="https://github.com/mrashad10" target="_blank">
